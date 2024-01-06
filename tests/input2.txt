@@ -1,0 +1,1 @@
+./moore_curve -n 2 -o output2.txt
